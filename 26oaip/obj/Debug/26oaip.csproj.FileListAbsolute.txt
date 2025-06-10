@@ -1,0 +1,7 @@
+D:\Projects\26oaip\bin\Debug\26oaip.exe.config
+D:\Projects\26oaip\bin\Debug\26oaip.exe
+D:\Projects\26oaip\bin\Debug\26oaip.pdb
+D:\Projects\26oaip\obj\Debug\26oaip.csproj.AssemblyReference.cache
+D:\Projects\26oaip\obj\Debug\26oaip.csproj.CoreCompileInputs.cache
+D:\Projects\26oaip\obj\Debug\26oaip.exe
+D:\Projects\26oaip\obj\Debug\26oaip.pdb
